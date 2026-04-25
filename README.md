@@ -22,20 +22,7 @@
 
 ---
 
-## 📊 GitHub Stats (Live)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
----
-
-## 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 - 🔹 **Sudoku Game** – Full Stack (Node + MongoDB)
@@ -53,10 +40,10 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/utsarg-tiw2">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://www.linkedin.com/in/utsarg-kumar-tiwary-a47104277/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
